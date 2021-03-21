@@ -13,3 +13,8 @@ Define your ATEM's IP address and your wifi info at the top of the file.
 Watch the "build with me" video where I built this live! 
 
 https://youtu.be/7tZVQeAdCbA
+
+Check out this much more complete fork of this project!
+
+https://github.com/helo-head/Tally-Core2
+
